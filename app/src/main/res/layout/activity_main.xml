@@ -8,6 +8,7 @@
     tools:context="com.marcinmoskala.cde_droidcon_it.MainActivity">
 
     <TextView
+        android:id="@+id/someId"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello to myself :)" />
