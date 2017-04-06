@@ -8,3 +8,6 @@ android:
    - android-25
    - extra-android-m2repository
    - sys-img-armeabi-v7a-android-16
+
+notifications:
+  slack: conference-chat:kWqCkbSTDaTTgY4LBMM1F9IB
